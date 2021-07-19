@@ -23,7 +23,8 @@ Open-Source Coding Software:
 - Statistics    
 - Numpy  
     
-Deliverables:   
+Deliverables:  
+
 **NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
       **All charts were created uniformly with the following colors scheme:**   
       **coral for urban areas**  
