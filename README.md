@@ -65,6 +65,6 @@ Finally, the multi-line chart gives a clear depiction that the rural cities have
 
 ## Summary  
 Based on these findings, three recommendations are to:  
-- reallocate resources (i.e. drivers) from the urban to the rural cities,  
-- as a result, fares should be re-examined to create a more uniform pricing structure, and finally  
-- maintain the fare and driver ration in the suburban cities as it appears to be the baseline.  
+- reallocate resources (i.e. drivers) from the urban to the rural cities, as a result,   
+- fares should be re-examined to create a more uniform pricing structure, and finally,    
+- maintain the fare and driver ratio in the suburban cities as it appears to be the baseline.    
