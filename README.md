@@ -5,7 +5,7 @@ The purpose of this analysis is to provide PyBer Ride Sharing company with an ex
 on Drivers, Dates, and Fares of Cities based on City Types (Urban, Suburban, and Rural), in the forms of several different visualizations, that will help Pyber to improve access to ride sharing services, as well as, determine affordability for potentially underserved neighborhoods.  
 
 ## Resources and Process 
-Data Files:    
+Data Files:  
 - city_data.csv  
     - 3 columns (city, driver_count, type)  
     - 120 records
