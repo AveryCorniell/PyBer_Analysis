@@ -7,7 +7,7 @@ of several different visualizations, that will help Pyber to improve access to r
 as well as, determine affordability for potentially underserved neighborhoods.  
 
 ## Resources and Process  
-## Data Files:
+### Data Files:
 - city_data.csv  
     - 3 columns (city, driver_count, type)    
     - 120 records  
@@ -16,14 +16,14 @@ as well as, determine affordability for potentially underserved neighborhoods.
     - 2375 records    
 **(All imported data was clean and contained 4 months of rideshare data)**  
 
-## Open-Source Coding Software:    
+### Open-Source Coding Software:    
 - Python       
 - Pandas   
 - Matplotlib (matplotlib library)    
 - Statistics    
 - Numpy  
     
-## Deliverables:  
+### Deliverables:  
 
 **NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
       **All charts were created uniformly with the following colors scheme:**   
@@ -31,14 +31,14 @@ as well as, determine affordability for potentially underserved neighborhoods.
       **skyblue for suburban areas**  
       **gold for rural areas**    
     
-### Bubble Chart  
+#### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
   total number of drivers for each city type, including urban, suburban, and rural.   
-### Box-and-Whisker Plot  
+#### Box-and-Whisker Plot  
 - showcases the number of rides, fares and drivers for each city type.  
-### Pie Chart  
+#### Pie Chart  
 - showcases the percent of total fares, rides, and drivers.  
-### Multiple Line Chart  
+#### Multiple Line Chart  
 - showcases the total fares for each city type.  
 
 ## Results  
