@@ -13,12 +13,14 @@ Data Files:
     - 4 columns (city, date, fare, ride_id)  
     - 2375 records  
 **(All imported data was clean and contained 4 months of rideshare data)**  
+
 Open-Source Coding Software:    
-- Python       
-- Pandas 
-- Matplotlib (matplotlib library)  
-- Statistics  
-- Numpy    
+    - Python       
+    - Pandas 
+    - Matplotlib (matplotlib library)  
+    - Statistics  
+    - Numpy  
+    
 Deliverables:   
 **NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
       **All charts were created uniformly with the following colors scheme:**   
