@@ -35,8 +35,9 @@ as well as, determine affordability for potentially underserved neighborhoods.
 #### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
   total number of drivers for each city type, including urban, suburban, and rural.  
-    
+
 ![Fig1](https://user-images.githubusercontent.com/83401820/126104921-198521bc-c8c7-420f-a199-da9adc7eb5a8.png)  
+
 
 #### Box-and-Whisker Plot  
 - showcases the number of rides, fares and drivers for each city type.  
