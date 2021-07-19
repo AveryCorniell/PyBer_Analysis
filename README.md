@@ -36,7 +36,7 @@ as well as, determine affordability for potentially underserved neighborhoods.
 - showcases the average fare versus the total number of rides with bubble size based on the  
   total number of drivers for each city type, including urban, suburban, and rural.  
 
-     ![Fig1](https://user-images.githubusercontent.com/83401820/126107658-176d80d2-e110-424c-97ac-975611dc3c25.png)    
+     ![Fig1](https://user-images.githubusercontent.com/83401820/126107658-176d80d2-e110-424c-97ac-975611dc3c25.png) Note: Circle size correlates with driver count per city.   
 
 
 #### Box-and-Whisker Plot  
