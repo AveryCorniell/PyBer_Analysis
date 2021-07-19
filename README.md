@@ -4,28 +4,6 @@
 The purpose of this analysis is to provide PyBer Ride Sharing company with an exploratory analysis  
 on Drivers, Dates, and Fares of Cities based on City Types (Urban, Suburban, and Rural), in the forms of several different visualizations, that will help Pyber to improve access to ride sharing services, as well as, determine affordability for potentially underserved neighborhoods.  
 
-## Resources and Process  
-Data Files:    
-- city_data.csv  
-    - 3 columns (city, driver_count, type)    
-    - 120 records  
-- ride_data.csv    
-    - 4 columns (city, date, fare, ride_id)    
-    - 2375 records    
-**(All imported data was clean and contained 4 months of rideshare data)**    
-Open-Source Coding Software:    
-- Python       
-- Pandas   
-- Matplotlib (matplotlib library)    
-- Statistics    
-- Numpy    
-Deliverables:   
-**NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
-      **All charts were created uniformly with the following colors scheme:**   
-      **coral for urban areas**  
-      **skyblue for suburban areas**  
-      **gold for rural areas**    
-
 ## Resources and Process 
 Data Files:  
 - city_data.csv  
