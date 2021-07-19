@@ -26,10 +26,10 @@ as well as, determine affordability for potentially underserved neighborhoods.
 ### Deliverables:  
 
 **NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
-      **All charts were created uniformly with the following colors scheme:**   
-      **coral for urban areas**  
-      **skyblue for suburban areas**  
-      **gold for rural areas**    
+      - **All charts were created uniformly with the following colors scheme:**   
+      - **coral for urban areas**  
+      - **skyblue for suburban areas**  
+      - **gold for rural areas**    
     
 #### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
