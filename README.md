@@ -34,13 +34,31 @@ as well as, determine affordability for potentially underserved neighborhoods.
     
 #### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
-  total number of drivers for each city type, including urban, suburban, and rural.   
+  total number of drivers for each city type, including urban, suburban, and rural.  
+    
+![Fig1](https://user-images.githubusercontent.com/83401820/126104921-198521bc-c8c7-420f-a199-da9adc7eb5a8.png)  
+
 #### Box-and-Whisker Plot  
 - showcases the number of rides, fares and drivers for each city type.  
+  
+![Fig2](https://user-images.githubusercontent.com/83401820/126104912-f8697b9a-f441-483d-9059-2805000771ea.png)
+![Fig3](https://user-images.githubusercontent.com/83401820/126104914-5b03366e-cce9-4d92-b980-5c6590dd1efd.png)
+![Fig4](https://user-images.githubusercontent.com/83401820/126104915-3765f491-a355-4593-b816-30cb97df8eb2.png)  
+  
+
 #### Pie Chart  
 - showcases the percent of total fares, rides, and drivers.  
+  
+![Fig5](https://user-images.githubusercontent.com/83401820/126104917-7b9bedee-97ef-4a5c-bf58-3fed4eb9ac8b.png)
+![Fig6](https://user-images.githubusercontent.com/83401820/126104918-06fce45a-5db7-4759-bf23-3f5c4b811a87.png)
+![Fig7](https://user-images.githubusercontent.com/83401820/126104919-964fcff5-1149-4e3c-b408-3ebc6e48ec1a.png)  
+  
+
 #### Multiple Line Chart  
 - showcases the total fares for each city type.  
+
+![Fig8](https://user-images.githubusercontent.com/83401820/126104920-c03056bc-5fd0-4769-b2b6-f159869332de.png)  
+
 
 ## Results  
 Based on the bubble chart it is evident that more support is needed in the rural areas.    
