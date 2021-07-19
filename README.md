@@ -7,36 +7,59 @@ of several different visualizations, that will help Pyber to improve access to r
 as well as, determine affordability for potentially underserved neighborhoods.  
 
 ## Resources and Process  
-Data Files:    
+### Data Files:
 - city_data.csv  
     - 3 columns (city, driver_count, type)    
     - 120 records  
 - ride_data.csv    
     - 4 columns (city, date, fare, ride_id)    
     - 2375 records    
-**(All imported data was clean and contained 4 months of rideshare data)**    
-Open-Source Coding Software:    
+**(All imported data was clean and contained 4 months of rideshare data)**  
+
+### Open-Source Coding Software:    
 - Python       
 - Pandas   
 - Matplotlib (matplotlib library)    
 - Statistics    
 - Numpy    
-Deliverables:   
-**NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
-      **All charts were created uniformly with the following colors scheme:**   
-      **coral for urban areas**  
-      **skyblue for suburban areas**  
-      **gold for rural areas**    
+
+### Deliverables:  
+
+**NOTE:**    
+- **Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
+- **All charts were created uniformly with the following colors scheme:**    
+- **coral for urban areas**    
+- **skyblue for suburban areas**    
+- **gold for rural areas**      
     
-### Bubble Chart  
+#### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
-  total number of drivers for each city type, including urban, suburban, and rural.   
-### Box-and-Whisker Plot  
+  total number of drivers for each city type, including urban, suburban, and rural.  
+
+     ![Fig1](https://user-images.githubusercontent.com/83401820/126104921-198521bc-c8c7-420f-a199-da9adc7eb5a8.png)  
+
+
+#### Box-and-Whisker Plot  
 - showcases the number of rides, fares and drivers for each city type.  
-### Pie Chart  
+  
+![Fig2](https://user-images.githubusercontent.com/83401820/126104912-f8697b9a-f441-483d-9059-2805000771ea.png)
+![Fig3](https://user-images.githubusercontent.com/83401820/126104914-5b03366e-cce9-4d92-b980-5c6590dd1efd.png)
+![Fig4](https://user-images.githubusercontent.com/83401820/126104915-3765f491-a355-4593-b816-30cb97df8eb2.png)  
+  
+
+#### Pie Chart  
 - showcases the percent of total fares, rides, and drivers.  
-### Multiple Line Chart  
+  
+![Fig5](https://user-images.githubusercontent.com/83401820/126104917-7b9bedee-97ef-4a5c-bf58-3fed4eb9ac8b.png)
+![Fig6](https://user-images.githubusercontent.com/83401820/126104918-06fce45a-5db7-4759-bf23-3f5c4b811a87.png)
+![Fig7](https://user-images.githubusercontent.com/83401820/126104919-964fcff5-1149-4e3c-b408-3ebc6e48ec1a.png)  
+  
+
+#### Multiple Line Chart  
 - showcases the total fares for each city type.  
+
+![Fig8](https://user-images.githubusercontent.com/83401820/126104920-c03056bc-5fd0-4769-b2b6-f159869332de.png)  
+
 
 ## Results  
 Based on the bubble chart it is evident that more support is needed in the rural areas.    
@@ -63,4 +86,4 @@ Finally, the multi-line chart gives a clear depiction that the rural cities have
 Based on these findings, three recommendations are to:  
 - reallocate resources (i.e. drivers) from the urban to the rural cities,  
 - as a result, fares should be re-examined to create a more uniform pricing structure, and finally  
-- maintain the fare and driver ration in the suburban cities as it appears to be the baseline.
+- maintain the fare and driver ration in the suburban cities as it appears to be the baseline.  
