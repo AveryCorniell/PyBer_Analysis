@@ -2,9 +2,10 @@
 
 ## Analysis Overview  
 The purpose of this analysis is to provide PyBer Ride Sharing company with an exploratory analysis  
-on Drivers, Dates, and Fares of Cities based on City Types (Urban, Suburban, and Rural), in the forms of several different visualizations, that will help Pyber to improve access to ride sharing services, as well as, determine affordability for potentially underserved neighborhoods.  
+on Drivers, Dates, and Fares of Cities based on City Types (Urban, Suburban, and Rural), in the forms  
+of several different visualizations, that will help Pyber to improve access to ride sharing services,  
+as well as, determine affordability for potentially underserved neighborhoods.  
 
-<<<<<<< HEAD
 ## Resources and Process  
 Data Files:    
 - city_data.csv  
@@ -26,33 +27,7 @@ Deliverables:
       **coral for urban areas**  
       **skyblue for suburban areas**  
       **gold for rural areas**    
-
-=======
-## Resources and Process 
-Data Files:  
-- city_data.csv  
-    - 3 columns (city, driver_count, type)  
-    - 120 records
-- ride_data.csv  
-    - 4 columns (city, date, fare, ride_id)  
-    - 2375 records  
-**(All imported data was clean and contained 4 months of rideshare data)**  
-
-Open-Source Coding Software:    
-    - Python       
-    - Pandas 
-    - Matplotlib (matplotlib library)  
-    - Statistics  
-    - Numpy  
     
-Deliverables:   
-**NOTE: Charts and graphs were plotted using both the MATLAB and Object-Oriented Approaches.**  
-      **All charts were created uniformly with the following colors scheme:**   
-        **coral for urban areas**  
-        **skyblue for suburban areas**  
-        **gold for rural areas**  
-        
->>>>>>> 3f646eff6d80b9e0695a98a8202f2a2787d3e609
 ### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
   total number of drivers for each city type, including urban, suburban, and rural.   
@@ -88,8 +63,4 @@ Finally, the multi-line chart gives a clear depiction that the rural cities have
 Based on these findings, three recommendations are to:  
 - reallocate resources (i.e. drivers) from the urban to the rural cities,  
 - as a result, fares should be re-examined to create a more uniform pricing structure, and finally  
-<<<<<<< HEAD
 - maintain the fare and driver ration in the suburban cities as it appears to be the baseline.
-=======
-- maintain the fare and driver ration in the suburban cities as it appears to be the baseline.  
->>>>>>> 3f646eff6d80b9e0695a98a8202f2a2787d3e609
