@@ -4,7 +4,6 @@
 The purpose of this analysis is to provide PyBer Ride Sharing company with an exploratory analysis  
 on Drivers, Dates, and Fares of Cities based on City Types (Urban, Suburban, and Rural), in the forms of several different visualizations, that will help Pyber to improve access to ride sharing services, as well as, determine affordability for potentially underserved neighborhoods.  
 
-<<<<<<< HEAD
 ## Resources and Process  
 Data Files:    
 - city_data.csv  
@@ -27,7 +26,6 @@ Deliverables:
       **skyblue for suburban areas**  
       **gold for rural areas**    
 
-=======
 ## Resources and Process 
 Data Files:  
 - city_data.csv  
@@ -52,7 +50,6 @@ Deliverables:
         **skyblue for suburban areas**  
         **gold for rural areas**  
         
->>>>>>> 3f646eff6d80b9e0695a98a8202f2a2787d3e609
 ### Bubble Chart  
 - showcases the average fare versus the total number of rides with bubble size based on the  
   total number of drivers for each city type, including urban, suburban, and rural.   
@@ -88,8 +85,4 @@ Finally, the multi-line chart gives a clear depiction that the rural cities have
 Based on these findings, three recommendations are to:  
 - reallocate resources (i.e. drivers) from the urban to the rural cities,  
 - as a result, fares should be re-examined to create a more uniform pricing structure, and finally  
-<<<<<<< HEAD
 - maintain the fare and driver ration in the suburban cities as it appears to be the baseline.
-=======
-- maintain the fare and driver ration in the suburban cities as it appears to be the baseline.  
->>>>>>> 3f646eff6d80b9e0695a98a8202f2a2787d3e609
