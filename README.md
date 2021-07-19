@@ -7,7 +7,7 @@ of several different visualizations, that will help Pyber to improve access to r
 as well as, determine affordability for potentially underserved neighborhoods.  
 
 ## Resources and Process  
-Data Files:    
+Data Files:
 - city_data.csv  
     - 3 columns (city, driver_count, type)    
     - 120 records  
